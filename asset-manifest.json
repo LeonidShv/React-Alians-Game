@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dadc9f0b.chunk.css",
+    "main.js": "/static/js/main.5e47defb.chunk.js",
+    "main.js.map": "/static/js/main.5e47defb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.aec0ba50.js",
+    "runtime-main.js.map": "/static/js/runtime-main.aec0ba50.js.map",
+    "static/js/2.95e8f3a1.chunk.js": "/static/js/2.95e8f3a1.chunk.js",
+    "static/js/2.95e8f3a1.chunk.js.map": "/static/js/2.95e8f3a1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.dadc9f0b.chunk.css.map": "/static/css/main.dadc9f0b.chunk.css.map",
+    "static/js/2.95e8f3a1.chunk.js.LICENSE.txt": "/static/js/2.95e8f3a1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/aim.aede010f.svg",
+    "static/media/alien.23f48953.svg": "/static/media/alien.23f48953.svg",
+    "static/media/background.8c18963d.svg": "/static/media/background.8c18963d.svg",
+    "static/media/ball.91abf32a.svg": "/static/media/ball.91abf32a.svg",
+    "static/media/baseCannon.364ce64f.svg": "/static/media/baseCannon.364ce64f.svg",
+    "static/media/cannon.d7035be1.svg": "/static/media/cannon.d7035be1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aec0ba50.js",
+    "static/js/2.95e8f3a1.chunk.js",
+    "static/css/main.dadc9f0b.chunk.css",
+    "static/js/main.5e47defb.chunk.js"
+  ]
+}
